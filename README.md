@@ -1,7 +1,7 @@
-<h1><p align="center">Hello, I'm Sunil Sarsande! <a href="https://Sarsande-Sunil.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello, I'm Sunil Sarsande! <a href="https://github.com/Sarsande-Sunil"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+ src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e476ty63elkc87d1j5y4kqyldkf0jnxnx13dx800ws2&rid=giphy.gif&ct=g" width="500px"/></p>
 
 
 <p align="center">I'm a student developer.<br/>I specialize in Web-Development and Flutter.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
