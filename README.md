@@ -4,7 +4,7 @@
  src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e476ty63elkc87d1j5y4kqyldkf0jnxnx13dx800ws2&rid=giphy.gif&ct=g" width="500px"/></p>
 
 
-<p align="center">I'm a student developer.<br/>I specialize in Web-Development and Flutter.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
+<p align="center">I'm a student developer.<br/>I specialize in Web-Development.<br> I also love Travelling and Meeting with people and Playing cube <br></p><br/>
 
 <p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
