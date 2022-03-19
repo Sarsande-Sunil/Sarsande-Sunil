@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm SUNIL BHAVLAL SARSANDE</h1>
+
+<h3 align="center">I'm Sunil Sarsande, a technical enthusiast who doing web development. Passionate to contribute open-source projects and make cool products.</h3>
 <p align="center" ><img 
  src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e476ty63elkc87d1j5y4kqyldkf0jnxnx13dx800ws2&rid=giphy.gif&ct=g" width="500px"/></p>
-<h3 align="center">I'm Sunil Sarsande, a technical enthusiast who doing web development. Passionate to contribute open-source projects and make cool products.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarsande-sunil&label=Profile%20views&color=0e75b6&style=flat" alt="sarsande-sunil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarsande-sunil" alt="sarsande-sunil" /></a> </p>
