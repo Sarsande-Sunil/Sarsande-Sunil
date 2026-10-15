@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sunil Sarsande 👋</h1>
 
-**Full Stack Engineer** · 4+ years building web applications and backend services with **Node.js, TypeScript, React and Next.js** · Pune, India
+**Full Stack Engineer** · 4+ years building web applications and backend services with **Node.js, TypeScript, React and Next.js** · Mumbai, India
 
 I build REST APIs, data pipelines and full-stack web apps, with a focus on clean data, reliable integrations and code that is easy to test and run.
 
